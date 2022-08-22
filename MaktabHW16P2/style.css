@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(60, 138, 228);
+    color: white;
+    display: block;
+    padding: 50px 0px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.gray-box {
+    float: left;
+    width: 33.33%;
+    padding-top: 10px;
+}
+
+.wrapper {
+    background-color: rgb(214, 214, 214);
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.middle {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.pr {
+    padding-right: 10px;
+}
+
+.pl {
+    padding-left: 10px;
+}
+
+.color-box {
+    float: left;
+    color: white;
+    width: 25%;
+    padding-top: 10px;
+}
+
+.wrapper-color {
+    font-size: 1.5em;
+    padding: 25px;
+}
+
+.one {
+    background-color: rgb(60, 138, 228);
+}
+
+.two {
+    background-color: rgb(231, 187, 93);
+}
+
+.three {
+    background-color: rgb(93, 231, 190);
+}
+
+.four {
+    background-color: rgb(231, 93, 127);
+}
